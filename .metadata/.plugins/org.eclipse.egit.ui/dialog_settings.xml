@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://git.eclipse.org/r/platform/eclipse.platform.swt"/>
+		<item value="http://git.eclipse.org/c/platform/eclipse.platform.swt.git"/>
+		<item value="https://git.eclipse.org/c/platform/eclipse.platform.swt.git"/>
+		<item value="http://djproject.sourceforge.net"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>

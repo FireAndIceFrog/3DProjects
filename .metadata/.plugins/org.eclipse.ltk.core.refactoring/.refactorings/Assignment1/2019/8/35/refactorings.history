@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Assignment 2/src/main&apos;&#x0D;&#x0A;- Original project: &apos;Assignment1&apos;&#x0D;&#x0A;- Destination element: &apos;Assignment 2/src/main&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     image.Menu.java&#x0D;&#x0A;     image.MenuChooser.java" description="Copy compilation units" destination="=Assignment 2/src&lt;main" element1="/src&lt;image{Menu.java" element2="/src&lt;image{MenuChooser.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1567143033060" units="2" version="1.0"/>
+</session>
